@@ -1,4 +1,4 @@
-### Bão? Meu nome é Pedro!
+# What am I?
 
 - 🔭 Atualmente trabalho como motoboy
 - 🌱 Estou estudando ADS na Uninter, também faço alguns cursos, são eles: Python, Figma e SQL

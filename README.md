@@ -50,10 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PedroDutra86/PedroDutra86/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Contact</h2>
 
 ###
